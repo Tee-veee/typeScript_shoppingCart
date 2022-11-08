@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book_one.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Book2",
+    "price": 10.99,
+    "imgUrl": "/imgs/book_two.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Phone",
+    "price": 10.99,
+    "imgUrl": "/imgs/phone_one.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Phone2",
+    "price": 10.99,
+    "imgUrl": "/imgs/phone_two.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Speaker",
+    "price": 10.99,
+    "imgUrl": "/imgs/speaker_one.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Speaker2",
+    "price": 10.99,
+    "imgUrl": "/imgs/speaker_two.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Laptop",
+    "price": 10.99,
+    "imgUrl": "/imgs/laptop_one.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Laptop2",
+    "price": 10.99,
+    "imgUrl": "/imgs/laptop_two.jpg"
+  }
+]
